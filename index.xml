@@ -7,12 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language><atom:link href="https://dylanyang.top/nav/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>关于网站</title>
+      <title></title>
       <link>https://dylanyang.top/nav/about/</link>
-      <pubDate>Tue, 28 Jul 2020 19:27:08 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dylanyang.top/nav/about/</guid>
-      <description>这是Hugo版WebStack主题 本项目是基于纯静态的网址导航网站webstack.cc 制作的Hogo主题，主题安装后，将exampleSi</description>
+      <description>这是Hugo版WebStack主题 本项目是基于纯静态的网址导航网站webstack.cc 制作的Hogo主题，主题安装后，将exampleSite目录下的文件复制到hugo站点根目录，网址信息可通过data目录下webstack.yml修改。
+这是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。
+主题开源地址 https://github.com/iplaycode/webstack-hugo
+主题演示地址 https://iplaycode.github.io/nav</description>
     </item>
     
   </channel>
