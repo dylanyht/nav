@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dylan导航</title>
-    <link>https://dylanyang.top/nav/</link>
+    <link>https://dylanyang.top/</link>
     <description>Recent content on dylan导航</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="https://dylanyang.top/nav/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language><atom:link href="https://dylanyang.top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://dylanyang.top/nav/about/</link>
+      <link>https://dylanyang.top/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dylanyang.top/nav/about/</guid>
+      <guid>https://dylanyang.top/about/</guid>
       <description>关于站主 一个正在努力探索运维领域的青岛某公司运维工程师
 Stay Hungry. Stay Foolish.
 个人博客
